@@ -25,7 +25,7 @@
      '응응 프로그램을 서비스로 제공하는 형태'
     - ex) Gmail, Dropbox
 
-## PaaS (Platform as a Service) && IaaS (Infra as a Service)
+## PaaS (Platform as a Service) && IaaS (Infrastructure as a Service)
     '응용 프로그램을 만들기 위한 기능을 서비스로 제공하며 사용자는 해당 기능으로 응용 프로그램을 개발'
     - 차이:
     (1) PaaS: 클라우드 서비스 제공자는 OS 및 미들웨어까지 관리하며 필수 기능만 사용자에게 제공, 유지보수는 AWS가 담당
